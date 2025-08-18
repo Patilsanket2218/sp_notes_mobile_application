@@ -1,0 +1,37 @@
+.custom-tool-bar {
+  --background: #000000; /* custom background */
+  --color: #ffffff;      /* icon and text color */
+}
+
+.custom-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.note-container {
+  width: 100%;
+  max-width: 600px;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.custom-textarea {
+  width: 100%;
+  background: #f7f7f7;
+  border-radius: 10px;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+}
+
+.save-button {
+  margin-top: 20px;
+  --border-radius: 10px;
+  --box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  font-weight: 600;
+  font-size: 16px;
+}

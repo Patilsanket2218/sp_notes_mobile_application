@@ -1,0 +1,77 @@
+.login-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Full viewport height */
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+  padding: 16px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.login-box {
+  width: 100%;
+  max-width: 380px;
+  padding: 24px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  color: #fff;
+  margin: auto;
+}
+
+ion-text h2 {
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 22px;
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+
+.custom-item {
+  margin-bottom: 16px;
+  --highlight-color-focused: #50fa7b;
+  --background: transparent;
+  --color: #ffffff;
+}
+
+ion-label {
+  color: #d0d0d0;
+}
+
+ion-input {
+  color: #000000;
+}
+
+ion-button {
+  margin-top: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+ion-button[color="primary"] {
+  --background: #50fa7b;
+  --background-hover: #2bf46d;
+  --color: #000;
+}
+
+ion-button[color="light"] {
+  color: #ffffff;
+}
+
+/* Extra responsiveness for screens smaller than 375px */
+@media screen and (max-width: 375px) {
+  .login-box {
+    padding: 20px;
+    border-radius: 12px;
+  }
+
+  ion-text h2 {
+    font-size: 20px;
+  }
+}

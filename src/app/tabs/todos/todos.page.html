@@ -1,0 +1,78 @@
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-buttons slot="start" *ngIf="isSelectionMode">
+      <ion-button (click)="cancelSelection()">
+        <ion-icon name="close"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+
+    <ion-title *ngIf="!isSelectionMode">To-Dos</ion-title>
+    <ion-title *ngIf="isSelectionMode">{{ selectedTodos.length }} selected</ion-title>
+
+    <ion-buttons slot="end" *ngIf="isSelectionMode && selectedTodos.length > 0">
+      <ion-button color="danger" (click)="confirmDelete()">
+        <ion-icon name="trash-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <!-- Pending Section -->
+  <div *ngIf="pendingTodos.length > 0" class="section">
+    <h2 class="section-title">
+      <ion-icon name="list-outline"></ion-icon>
+      Pending Tasks
+    </h2>
+    <ion-list lines="none">
+      <ion-item *ngFor="let todo of pendingTodos" class="todo-item">
+        <ion-checkbox slot="start" [checked]="todo.completed" (ionChange)="completeTodo(todo)">
+        </ion-checkbox>
+        <ion-label class="todo-text">
+          {{ todo.text }}
+          <p *ngIf="todo.dueDate" class="due-date">
+            <ion-icon name="time-outline"></ion-icon>
+            Due: {{ todo.dueDate | date:'MMM d, yyyy' }}
+          </p>
+        </ion-label>
+      </ion-item>
+    </ion-list>
+  </div>
+
+  <!-- Done Section -->
+  <div *ngIf="completedTodos.length > 0" class="section">
+    <h2 class="section-title">
+      <ion-icon name="checkmark-done-outline"></ion-icon>
+      Completed Tasks
+    </h2>
+    <ion-list lines="none">
+      <ion-item *ngFor="let todo of completedTodos" class="todo-item completed" [class.selected]="isSelected(todo)"
+        (touchstart)="onPressStart(todo, $event)" (touchend)="onPressEnd()" (touchcancel)="onPressEnd()"
+        (mousedown)="onPressStart(todo, $event)" (mouseup)="onPressEnd()" (mouseleave)="onPressEnd()">
+        <ion-checkbox slot="start" [checked]="todo.completed" (ionChange)="uncompleteTodo(todo)">
+        </ion-checkbox>
+        <ion-label class="todo-text">
+          {{ todo.text }}
+          <p *ngIf="todo.completionDate" class="completion-date">
+            <ion-icon name="calendar-outline"></ion-icon>
+            Completed: {{ todo.completionDate | date:'MMM d, yyyy' }}
+          </p>
+        </ion-label>
+      </ion-item>
+    </ion-list>
+  </div>
+
+  <!-- Empty State -->
+  <div *ngIf="!pendingTodos.length && !completedTodos.length" class="empty-state">
+    <ion-icon name="checkmark-done-outline" class="empty-icon"></ion-icon>
+    <h2>No Tasks Yet</h2>
+    <p>Tap the + button to add your first to-do</p>
+  </div>
+
+  <!-- Add Button -->
+  <ion-fab vertical="bottom" horizontal="end" slot="fixed">
+    <ion-fab-button (click)="addTodo()" color="danger">
+      <ion-icon name="add"></ion-icon>
+    </ion-fab-button>
+  </ion-fab>
+</ion-content>

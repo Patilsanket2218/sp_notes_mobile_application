@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-title>{{ isEditing ? 'Edit Note' : 'Add Note' }}</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="closeNote()">
+        <ion-icon slot="icon-only" name="close-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding custom-content">
+  <div class="note-container">
+    <ion-textarea
+      [(ngModel)]="noteText"
+      placeholder="Write your paragraph note here..."
+      autoGrow="true"
+      rows="8"
+      class="custom-textarea">
+    </ion-textarea>
+
+    <ion-button
+      expand="block"
+      [color]="isEditing ? 'danger' : 'danger'"
+      class="save-button"
+      (click)="saveNote()">
+      <ion-icon name="save-outline" slot="start"></ion-icon>
+      {{ isEditing ? 'Update Note' : 'Save Note' }}
+    </ion-button>
+  </div>
+</ion-content>

@@ -1,0 +1,48 @@
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-buttons slot="start" *ngIf="isSelectionMode">
+      <ion-button (click)="cancelSelection()">
+        <ion-icon name="close"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+
+    <ion-title *ngIf="!isSelectionMode">Notes</ion-title>
+    <ion-title *ngIf="isSelectionMode">{{ selectedNotes.length }} selected</ion-title>
+
+    <ion-buttons slot="end" *ngIf="isSelectionMode && selectedNotes.length > 0">
+      <ion-button color="danger" (click)="confirmDelete()">
+        <ion-icon name="trash-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content pullingIcon="arrow-down" refreshingSpinner="circles" pullingText="Pull to refresh"
+      refreshingText="Refreshing...">
+    </ion-refresher-content>
+  </ion-refresher>
+  <div *ngIf="isLoading" class="loading-spinner">
+    <ion-spinner name="crescent"></ion-spinner>
+  </div>
+
+  <h1 class="notes-heading" *ngIf="!isSelectionMode">All Notes</h1>
+
+  <div class="notes-grid">
+    <ion-card *ngFor="let note of notes" class="note-card" [class.selected]="isSelected(note)"
+      (touchstart)="onPressStart(note, $event)" (touchend)="onPressEnd()" (touchcancel)="onPressEnd()"
+      (mousedown)="onPressStart(note, $event)" (mouseup)="onPressEnd()" (mouseleave)="onPressEnd()"
+      (click)="openNote(note)">
+      <ion-card-content class="note-content">
+        {{ note.note_text }}
+      </ion-card-content>
+    </ion-card>
+  </div>
+
+  <ion-fab vertical="bottom" horizontal="end" slot="fixed" *ngIf="!isSelectionMode">
+    <ion-fab-button color="danger" (click)="addNote()">
+      <ion-icon name="add"></ion-icon>
+    </ion-fab-button>
+  </ion-fab>
+</ion-content>

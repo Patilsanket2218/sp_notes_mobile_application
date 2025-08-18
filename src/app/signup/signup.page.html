@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-title class="ion-text-center">Create Account</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="signup-content ion-padding">
+  <div class="signup-box">
+    <ion-text color="light">
+      <h2 class="ion-text-center">Sign Up</h2>
+    </ion-text>
+
+    <form [formGroup]="signupForm" (ngSubmit)="onSignup()">
+      
+      <ion-item class="custom-item dark-item">
+        <ion-label position="floating">Name</ion-label>
+        <ion-input formControlName="name" required></ion-input>
+      </ion-item>
+
+      <ion-item class="custom-item dark-item">
+        <ion-label position="floating">Email</ion-label>
+        <ion-input formControlName="email" type="email" required></ion-input>
+      </ion-item>
+
+      <ion-item class="custom-item dark-item">
+        <ion-label position="floating">Password</ion-label>
+        <ion-input formControlName="password" type="password" required></ion-input>
+      </ion-item>
+
+      <ion-button expand="block" type="submit" color="primary" [disabled]="signupForm.invalid">
+        Sign Up
+      </ion-button>
+
+      <ion-button expand="block" fill="clear" color="medium" (click)="goToLogin()">
+         Already have an account? <strong>Login</strong>
+      </ion-button>
+    </form>
+  </div>
+</ion-content>

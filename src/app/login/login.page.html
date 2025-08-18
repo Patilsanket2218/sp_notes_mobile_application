@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title class="ion-text-center">Welcome Back</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding login-content">
+  <div class="login-box">
+    <ion-text color="primary">
+      <h2 class="ion-text-center">Login</h2>
+    </ion-text>
+
+    <form [formGroup]="loginForm" (ngSubmit)="onLogin()">
+      <ion-item lines="full" class="custom-item">
+        <ion-label position="floating">Email</ion-label>
+        <ion-input type="email" formControlName="email" required></ion-input>
+      </ion-item>
+
+      <ion-item lines="full" class="custom-item">
+        <ion-label position="floating">Password</ion-label>
+        <ion-input type="password" formControlName="password" required></ion-input>
+      </ion-item>
+
+      <ion-button expand="block" type="submit" color="primary" [disabled]="loginForm.invalid">
+        Login
+      </ion-button>
+
+      <ion-button expand="block" fill="clear" color="medium" (click)="goToSignup()">
+        Don't have an account? <strong>Sign Up</strong>
+      </ion-button>
+    </form>
+  </div>
+</ion-content>

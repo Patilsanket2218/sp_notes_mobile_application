@@ -1,0 +1,7 @@
+{
+  "name": "Activet Tech Support",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

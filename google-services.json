@@ -1,0 +1,2135 @@
+{
+  "project_info": {
+    "project_number": "379755793580",
+    "firebase_url": "https://skolase-b660a.firebaseio.com",
+    "project_id": "skolase-b660a",
+    "storage_bucket": "skolase-b660a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:9163164022ba1d6b",
+        "android_client_info": {
+          "package_name": "com.ActivetConnect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:4bead39af6381a04",
+        "android_client_info": {
+          "package_name": "com.GEISadminedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:bec1b71d97130be0",
+        "android_client_info": {
+          "package_name": "com.GWISeastadminedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:5b7f49d1396d79e2",
+        "android_client_info": {
+          "package_name": "com.GWISwestadminedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:5a734ab1e2de74b0dd6309",
+        "android_client_info": {
+          "package_name": "com.NetaOffice.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:529cd070f7e63a18",
+        "android_client_info": {
+          "package_name": "com.activetsupport.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:3baa8c07aed495f9dd6309",
+        "android_client_info": {
+          "package_name": "com.adminarlowealth.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:ad5385d97e80f2e2",
+        "android_client_info": {
+          "package_name": "com.aesschool.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:19d21b912581e3a5",
+        "android_client_info": {
+          "package_name": "com.altwaveedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:c81e5a4bc3f2c35b",
+        "android_client_info": {
+          "package_name": "com.amcsupertrackwaveedu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:3fdf13d7b52f9e90",
+        "android_client_info": {
+          "package_name": "com.amctrackwaveedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:23c78fd8a51a26dbdd6309",
+        "android_client_info": {
+          "package_name": "com.arlowealth.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:c42a6e7dd3fb750d",
+        "android_client_info": {
+          "package_name": "com.credojoyedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:b1f5d61b0507beb6",
+        "android_client_info": {
+          "package_name": "com.credojoyfeedbackboxedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:68d81e9355ef6a82",
+        "android_client_info": {
+          "package_name": "com.credojoyfeedbackmgmt.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:1eeffe6d8d7fbb68",
+        "android_client_info": {
+          "package_name": "com.credoworldfeedbackboxedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:a54fd261090193d6",
+        "android_client_info": {
+          "package_name": "com.credoworldfeedbackmgmt.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:4233f72e6459b5e9",
+        "android_client_info": {
+          "package_name": "com.feedbackboxgurukuleastedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:5339d8b946eb637c",
+        "android_client_info": {
+          "package_name": "com.feedbackboxgurukulmgmtedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:c979f344e7f5d677",
+        "android_client_info": {
+          "package_name": "com.feedbackboxgurukulwestedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:ee0099be36117555",
+        "android_client_info": {
+          "package_name": "com.feedbackgurukuleastmgmt.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:abb947ac81a69272",
+        "android_client_info": {
+          "package_name": "com.feedbackgurukulwestmgmt.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:f065cba618ab357fdd6309",
+        "android_client_info": {
+          "package_name": "com.geis_teacher.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:563084a9e9b4d2e8dd6309",
+        "android_client_info": {
+          "package_name": "com.geisandroid11.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:cf34bec2a4f8ed96dd6309",
+        "android_client_info": {
+          "package_name": "com.gpis_teacher.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:3b06f941c570ab58",
+        "android_client_info": {
+          "package_name": "com.grabanoid_skolase.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:372fb902b492d039",
+        "android_client_info": {
+          "package_name": "com.gurukulexcellenceedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:328aa6d70ae6c084dd6309",
+        "android_client_info": {
+          "package_name": "com.gurukulprideedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:d55adf90a142382a",
+        "android_client_info": {
+          "package_name": "com.gurukulwave.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:3c2b868aeeb897b3",
+        "android_client_info": {
+          "package_name": "com.gurukulwaveedu965.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:50102d9f575e18eadd6309",
+        "android_client_info": {
+          "package_name": "com.gwe_teacher.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:8cecad584b79a6acdd6309",
+        "android_client_info": {
+          "package_name": "com.gww_teacher.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:62184c32ca2693b2dd6309",
+        "android_client_info": {
+          "package_name": "com.mukta.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:68860d9689f8bc51",
+        "android_client_info": {
+          "package_name": "com.supertrackwaveedu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:6fdbfa005ea95df8",
+        "android_client_info": {
+          "package_name": "com.supremeadmin.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:1be248daae2a79a4",
+        "android_client_info": {
+          "package_name": "com.trackwaveedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:2ccc7cf2f05657d3dd6309",
+        "android_client_info": {
+          "package_name": "com.uatNetaOffice.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:e650eebf2742437cdd6309",
+        "android_client_info": {
+          "package_name": "com.uatgurukulexcellenceedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:7b153a2105823ad5dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgs.inventory.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:e025d4806f63a810dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgs_authentication.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:bc1f6ce033f223f8dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgs_resume_new.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:ddae176cf528838ddd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsadmin.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:563510954766a7b5dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsappointments.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:719712f653101471dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsappointmentsplus.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:8e53ce08c6ea9420dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgscalling.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:df322e451136b5cedd6309",
+        "android_client_info": {
+          "package_name": "com.wwgscommunication.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:a7fa42f0166a1231dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsenquiry.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:599bc956dc9928ffdd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsenquiry5.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:56de01fcd3c05dbadd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsenquiry6.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:58c9a84d02437b41dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsenquiryadvanced.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:2715caf8dd3bce44",
+        "android_client_info": {
+          "package_name": "com.wwgsfeedbackboxedu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:3d70f35a13bcabc5",
+        "android_client_info": {
+          "package_name": "com.wwgsfeedbackmgmt.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:fe2d9dea8e44118edd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsfees.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:58b4488472ef4486dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsmanagementtask.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:358eb0de2c4c1c80dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsmarketing.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:2cd734d71832debcdd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsparentcomm.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:d024500732d33c77dd6309",
+        "android_client_info": {
+          "package_name": "com.wwgssecurity.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:f28b336639ee463add6309",
+        "android_client_info": {
+          "package_name": "com.wwgssms.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379755793580:android:3fecc918055d1c7edd6309",
+        "android_client_info": {
+          "package_name": "com.wwgsvendor.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKVKH3hy91IuZ8YN0ZWuIQKGG90H_aVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379755793580-abidl9t8pmpgdn3iin039takr6q9g686.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379755793580-1dqgvh91ju9offh28dl6rc4ccbvsoo01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uat.netaoffice.application"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WWGS Marketing</string>
+    <string name="title_activity_main">WWGS Marketing</string>
+    <string name="package_name">com.wwgsmarketing.application</string>
+    <string name="custom_url_scheme">com.wwgsmarketing.application</string>
+</resources>

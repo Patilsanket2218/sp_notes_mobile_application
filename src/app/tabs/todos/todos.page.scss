@@ -1,0 +1,154 @@
+/* Main Content Styling */
+ion-content {
+  --padding-start: 16px;
+  --padding-end: 16px;
+  --padding-top: 16px;
+  --padding-bottom: 80px; /* Extra space for FAB */
+}
+
+/* Section Styling */
+.section {
+  margin-bottom: 32px;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 8px 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.section-title {
+  color: var(--ion-color-primary);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 8px 16px;
+  padding: 12px 0 4px;
+  display: flex;
+  align-items: center;
+  
+  ion-icon {
+    margin-right: 8px;
+    font-size: 1.2rem;
+  }
+}
+
+/* Todo Item Styling */
+.todo-item {
+  --padding-start: 16px;
+  --padding-end: 16px;
+  --inner-padding-end: 0;
+  --min-height: 56px;
+  margin: 0 8px 8px;
+  border-radius: 8px;
+  border: 1px solid #f0f0f0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:active {
+    transform: scale(0.98);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* Checkbox Styling */
+ion-checkbox {
+  --size: 20px;
+  --border-radius: 4px;
+  --border-width: 2px;
+  --border-color: #cccccc;
+  --background-checked: var(--ion-color-primary);
+  --border-color-checked: var(--ion-color-primary);
+  --checkmark-color: white;
+  margin-right: 16px;
+}
+
+/* Text Styling */
+.todo-text {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  white-space: normal;
+  margin: 8px 0;
+}
+
+.completed .todo-text {
+  text-decoration: line-through;
+  color: #888888;
+}
+
+/* Date Styling */
+.due-date, .completion-date {
+  font-size: 0.8rem;
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+  
+  ion-icon {
+    margin-right: 6px;
+    font-size: 0.9rem;
+  }
+}
+
+.due-date {
+  color: var(--ion-color-warning);
+}
+
+.completion-date {
+  color: var(--ion-color-success);
+}
+
+/* Empty State Styling */
+.empty-state {
+  text-align: center;
+  padding: 40px 24px;
+  margin-top: 40px;
+  
+  .empty-icon {
+    font-size: 64px;
+    color: #e0e0e0;
+    margin-bottom: 16px;
+  }
+  
+  h2 {
+    color: #666666;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+  }
+  
+  p {
+    color: #999999;
+    font-size: 0.95rem;
+    margin: 0;
+  }
+}
+
+/* FAB Button Styling */
+ion-fab-button {
+  --box-shadow: 0 4px 12px rgba(var(--ion-color-primary-rgb), 0.3);
+  --size: 56px;
+  
+  ion-icon {
+    font-size: 1.8rem;
+  }
+}
+
+/* Responsive Adjustments */
+@media (min-width: 768px) {
+  ion-content {
+    --padding-start: 24px;
+    --padding-end: 24px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    margin-bottom: 40px;
+  }
+}
+
+.todo-item {
+  &.selected {
+    background-color: rgba(var(--ion-color-danger-rgb), 0.1);
+  }
+}
+
+ion-item.completed.selected {
+  --background: rgba(var(--ion-color-danger-rgb), 0.1);
+}
